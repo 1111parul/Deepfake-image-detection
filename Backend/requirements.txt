@@ -1,0 +1,4 @@
+flask==3.1.1
+transformers==4.55.2
+# torch==2.8.0+cpu
+Pillow==11.3.0
